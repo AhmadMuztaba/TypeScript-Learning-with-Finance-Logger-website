@@ -1,4 +1,4 @@
-# TypeScript-Learning-with-Finance-Logger-website
+# TypeScript Learning with Finance Logger website
 
 A project I learned from The Net Ninja 
 
